@@ -1,0 +1,6 @@
+my_app
+*.o
+*.pdf
+*.aux
+*.log
+*.out
